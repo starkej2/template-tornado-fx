@@ -1,2 +1,2 @@
 # Tornado FX Template
-![Build](https://github.com/starkej2/template-tornado-fx/workflows/Build%20and%20Test/badge.svg)
+![Build Status](https://img.shields.io/github/workflow/status/starkej2/template-tornado-fx/Build%20and%20Test/main)
